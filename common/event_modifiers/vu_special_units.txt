@@ -1,0 +1,66 @@
+vu_allow_special_units = {
+	can_recruit_janissaries = yes
+	allow_janissaries_from_own_faith = yes
+	can_recruit_cossacks = yes
+	allowed_cossack_fraction = 1
+	can_recruit_revolutionary_guards = yes
+	allowed_rev_guard_fraction = 1
+	has_samurai = yes	
+	allowed_samurai_fraction = 1
+	has_carolean = yes
+	amount_of_carolean = 1
+	has_banners = yes
+	amount_of_banners = 1
+	has_streltsy = yes
+	allowed_streltsy_fraction = 1
+	has_tercio = yes
+	allowed_tercio_fraction = 1
+	has_musketeer = yes
+	allowed_musketeer_fraction = 1
+	has_mamluks = yes
+	allowed_mamluks_fraction = 1
+	has_qizilbash = yes
+	allowed_qizilbash_fraction = 1
+	can_recruit_hussars = yes
+	amount_of_hussars = 10
+	can_recruit_rajputs = yes
+	allowed_rajput_fraction = 1
+	can_recruit_cawa = yes
+	amount_of_cawa = 1
+	has_marines = yes
+	allowed_marine_fraction = 1
+	has_geobukseon = yes
+	allowed_geobukseon_fraction = 1
+	has_galleass = yes
+	allowed_galleass_fraction = 1
+	has_voc_indiamen = yes
+	allowed_voc_indiamen_fraction = 1
+	has_man_of_war = yes
+	allowed_man_of_war_fraction = 1
+	has_galleon = yes
+	allowed_galleon_fraction = 1
+	has_caravel = yes
+	allowed_caravel_fraction = 1
+}
+
+vu_special_units = {
+	local_has_banners = yes
+	local_has_mamluks = yes
+	local_has_samurai = yes
+	local_has_carolean = yes
+	local_has_streltsy = yes
+	local_has_tercio = yes
+	local_has_musketeers = yes
+	local_has_qizilbash = yes
+	amount_of_banners = 1
+	picture = ""
+}
+
+vu_special_ships = {
+	local_has_geobukseon = yes
+	local_has_galleass = yes
+	local_has_voc_indiamen = yes
+	local_has_man_of_war = yes
+	local_has_galleon = yes
+	local_has_caravel = yes
+}

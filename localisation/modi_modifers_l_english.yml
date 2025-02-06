@@ -1,0 +1,11 @@
+﻿l_english:
+ more_envoys: "More Envoys"
+ desc_more_envoys: "We have recruited additional envoys to serve our nation"
+ vu_allow_special_units: "Recruit Special Units"
+ desc_vu_allow_special_units: "We may now recruit special units to bolster the ranks of our armed forces"
+ vu_special_units: "Royal Army Elites"
+ desc_vu_special_units: "This province permits recruitment of the finest elite units for the Royal Army."
+ vu_special_ships: "Royal Naval Shipwrights"
+ desc_vu_special_ships: "This port produces the finest elite ships for the Royal Navy."
+
+ 
